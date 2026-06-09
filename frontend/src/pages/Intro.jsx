@@ -147,7 +147,7 @@ function Intro() {
             <p>
               <span className="text-gray-200 font-semibold">Project Title:</span>{" "}
               Design and Implementation of a Web-Based Personal Safety and
-              Security Incident Reporting System with Real-Time Location Sharing
+              Security Incident Reporting System with Real-Time Location Sharing.
             </p>
           </div>
         </section>
